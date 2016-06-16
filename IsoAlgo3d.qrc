@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/FitAll.png</file>
+        <file>Resources/Home.png</file>
+        <file>Resources/Pan.png</file>
+        <file>Resources/Rotate.png</file>
+        <file>Resources/Zoom.png</file>
+        <file>Resources/lamp.png</file>
+        <file>Resources/IsoAlgo.ico</file>
+        <file>Resources/exit.png</file>
+        <file>Resources/open.png</file>
+    </qresource>
+</RCC>
